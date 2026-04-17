@@ -15,12 +15,6 @@ body.home {
 	background: radial-gradient(circle at 10% 0%, #fff7ec 0%, #f5ebda 55%, #f0e1ca 100%);
 }
 
-.home .site-header,
-.home .site-footer {
-	background: transparent;
-	border: 0;
-}
-
 .home .site-main.demo-landing {
 	margin: 0;
 	padding: 0;
